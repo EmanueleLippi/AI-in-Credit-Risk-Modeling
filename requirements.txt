@@ -1,0 +1,22 @@
+# === Requirements for AI in Credit Risk Modeling ===
+# Core data handling
+pandas==2.2.2
+numpy==1.26.4
+
+# Machine Learning
+scikit-learn==1.5.0
+xgboost==2.0.3
+
+# Explainable AI
+shap==0.45.0
+
+# Visualization
+matplotlib==3.8.4
+seaborn==0.13.2
+
+# Optional: for advanced deep learning models (e.g., TabTransformer)
+torch==2.3.0
+tab-transformer-pytorch==0.1.6
+
+# Utility
+jupyter==1.0.0
